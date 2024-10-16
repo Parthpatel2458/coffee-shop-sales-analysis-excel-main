@@ -50,4 +50,4 @@ To create a comprehensive dashboard for coffee shop sales analyzing retail sales
 ### Dataset Credit: 
 [Maven Analytics](https://mavenanalytics.io/data-playground)
 
-### Thanks for Reading 🌸🌸
+### Thanks for Reading ❤️🤩💯
